@@ -1,0 +1,102 @@
+
+
+.body {
+    font-family: "Inter", sans-serif;
+    overflow: hidden;
+}
+
+.navbar-nav {
+    margin-left: 500px;
+}
+.signup:hover {
+     background-color: rgb(8,2,163);
+     color: #fff;
+}
+.signup {
+    background-color: #fff;
+    color: rgb(8,2,163);
+}
+.login:hover {
+    background-color: #fff;
+    color: rgb(8,2,163);
+}
+.login {
+    background-color: rgb(8,2,163);
+    color: rgb(255, 255, 255);
+}
+.kids {
+    
+}
+.our {
+    width: 350px;
+    /* border: 1px solid red; */
+    font-size: 17px;
+    
+}
+.app {
+    position: absolute;
+    top: 120px;
+    left: 20px;
+    text-align: center;
+    width: 200px;
+    color: #fff;
+    
+}
+.teaching{
+    /* border: 1px solid red; */
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    position: relative;
+    background-color: rgb(8,2,163);
+    border-radius: 10px;
+}
+.teaching img {
+    margin-left: 60px;
+}
+.container {
+    
+}
+.teaching:nth-child(2){
+    background-color: rgb(255,118,118);
+}
+.teaching:nth-child(3){
+    background-color: rgb(255,75,145);
+}
+.teaching:nth-child(4){
+    background-color: rgb(255,205,75);
+}
+.pillars{
+    /* border: 1px solid red; */
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    position: relative;
+    border: 1px solid rgb(8,2,163);
+    /* background-color: rgb(8,2,163); */
+    border-radius: 10px;
+}
+.pillars p {
+    color: black;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-left: 70px;
+}
+.get-started {
+    background-color: #fff;
+    padding: 10px;
+    color: rgb(255,75,145);
+    text-decoration: none;
+    border-radius: 10px;
+    
+    
+    
+}
+.view {
+    background-color: rgb(8,2,163);
+    width: 200px;
+    color: #fff;
+    text-decoration: none;
+    justify-self: center;
+}
+
